@@ -1,7 +1,7 @@
 # Integrantes
 
-RM 551026 - Felipe Heilmann Marques
-RM 552159 - Carlos Eduardo Caramante Ribeiro
+- RM 552159 - Carlos Eduardo Caramante Ribeiro
+- RM 551026 - Felipe Heilmann Marques
 
 Aplicativo mobile desenvolvido em **React Native** que permite aos usuários **registrar e visualizar** localmente, por meio do **AsyncStorage**, episódios de **falta de energia** causados por eventos naturais, como **chuvas intensas, ventos ou deslizamentos**.
 
